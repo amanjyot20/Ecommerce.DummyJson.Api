@@ -5,8 +5,6 @@ VisualStudioVersion = 17.14.36212.18 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.DummyJson.Api", "Ecommerce.DummyJson.Api.csproj", "{CA83C5EB-746C-4DE1-B2B7-748CA86BC6F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.DummyJson.Dtos", "..\Ecommerce.DummyJson.Dtos\Ecommerce.DummyJson.Dtos.csproj", "{5FE88005-75B9-4370-B58F-0870B1165116}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{CA83C5EB-746C-4DE1-B2B7-748CA86BC6F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA83C5EB-746C-4DE1-B2B7-748CA86BC6F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA83C5EB-746C-4DE1-B2B7-748CA86BC6F3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5FE88005-75B9-4370-B58F-0870B1165116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5FE88005-75B9-4370-B58F-0870B1165116}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5FE88005-75B9-4370-B58F-0870B1165116}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5FE88005-75B9-4370-B58F-0870B1165116}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
